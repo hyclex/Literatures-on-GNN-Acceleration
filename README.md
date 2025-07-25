@@ -319,7 +319,7 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
 * [**TMLR 2025**] Sparse Decomposition of Graph Neural Networks.
-  >Yaochen Hu, Mai Zeng, et al.* [[Paper]](https://openreview.net/forum?id=xdWP1d8BxI)
+  >*Yaochen Hu, Mai Zeng, et al.* [[Paper]](https://openreview.net/forum?id=xdWP1d8BxI)
 * [**TC 2024**] HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices.
   >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10644077)
 * [**TC 2023**] Approximation- and Quantization-Aware Training for Graph Neural Networks.
